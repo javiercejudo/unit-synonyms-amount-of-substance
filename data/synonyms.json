@@ -1,0 +1,13 @@
+{
+  "mole": "mole",
+  "moles": "mole",
+  "mol": "mole",
+
+  "poundMole": "poundMole",
+  "poundMoles": "poundMole",
+  "pound mole": "poundMole",
+  "pound moles": "poundMole",
+  "lb mol": "poundMole",
+  "lb-mol": "poundMole",
+  "lbmol": "poundMole"
+}
